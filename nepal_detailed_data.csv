@@ -1,0 +1,56 @@
+Province Data
+Province,Poverty Rate (%),Urban Poverty Rate (%),Rural Poverty Rate (%)
+Province 1,22.34,19.78,23.56
+Madhesh,25.87,22.45,28.12
+Bagmati,13.45,10.89,15.34
+Gandaki,11.88,9.67,14.02
+Lumbini,23.45,20.56,25.78
+Karnali,31.23,28.45,33.56
+Sudurpaschim,34.16,30.78,36.89
+
+Poverty Rate Data
+Year,Poverty Rate (%)
+1995-96,42.0
+2003-04,31.0
+2011,25.16
+2023,20.27
+
+Geographic Data
+Region,Poverty Rate (%)
+Urban,18.34
+Rural,24.66
+
+Demographic Data
+Population Segment,Poverty Rate (%)
+Poorest 20% (Rural Madhesh),67.0
+Richest 20% (Kathmandu Valley),28.0
+Richest 20% (Rural Bagmati),56.0
+
+Income and Expenditure Data
+Year,Average Annual Consumption Spending (Rs),Non-Food Spending (%)
+2011,"75,902",38
+2023,"126,172",47
+
+Health Data
+Health Indicator,Value
+Average Life Expectancy,70.8 years
+Infant Mortality Rate,32.2 per 1000 live births
+Access to Clean Drinking Water,85%
+
+Economic Data
+Economic Indicator,Value
+GDP Growth Rate,3.9%
+Inflation Rate,6.3%
+Unemployment Rate,11.4%
+
+Education Data
+Education Indicator,Value
+Literacy Rate,67.9%
+Primary School Enrollment Rate,96.3%
+Secondary School Enrollment Rate,66.7%
+
+Infrastructure Data
+Infrastructure Indicator,Value
+Access to Electricity,88%
+Road Density,12.5 km per 100 sq km
+Internet Penetration Rate,48%
